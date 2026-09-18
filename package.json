@@ -1,0 +1,16 @@
+{
+  "name": "calculadora",
+  "version": "1.0.0",
+  "description": "Calculadora simple en JavaScript con operaciones basicas",
+  "main": "src/calculator.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "keywords": ["calculadora", "calculator"],
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
